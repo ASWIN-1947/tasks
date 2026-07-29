@@ -1,0 +1,24 @@
+    .hi{
+            color:red;
+            font-size: 30px;
+            margin-left:30%;
+        }
+        .image{
+            width: 200px;
+            border-radius: 100px;
+            margin-top: 40px;
+            margin-left: 40px;
+
+        }
+        *{
+            background-color: rgb(233, 234, 236);
+            color: rgb(14, 13, 13);
+            font-family: '
+        }
+        .srm{
+            margin-left:260px;
+            margin-top: -225px;
+            font-size: 200px;
+            color:rgb(11, 225, 11);
+        }
+        
